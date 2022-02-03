@@ -48,7 +48,7 @@ body {
     
 }
 .banner2 {
-    /* -webkit-mask-image: linear-gradient(to left, transparent, #111 90%, #fff 10%); */
+    -webkit-mask-image: linear-gradient(to left, transparent, #111 90%, #fff 10%);
     background-image: url(/images/banner2.jpg);
     background-size: cover;
     background-position: center;
