@@ -39,7 +39,7 @@ body {
 
 .banner {
     -webkit-mask-image: linear-gradient(to left, transparent, #111 90%, #fff 10%);
-    background-image: url(https://th.bing.com/th/id/OIP.mbeS-DfccSO3HJUEPd5YGQHaEK?pid=ImgDet&rs=1);
+    background-image: url(images/banner1.jfif);
     background-size: cover;
     background-position: center;
     color: #fff;
