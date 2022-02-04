@@ -115,7 +115,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 10px;
     z-index: 1;
     transition-timing-function: ease-in;
     transition: all 0.5s;
@@ -129,6 +129,7 @@ body {
     width: 30px;
     object-fit: contain;
     border-radius: 7px;
+    margin-right: 10px;
 }
 .nav--black {
     background-color: #000;
@@ -136,11 +137,14 @@ body {
 .footer {
     font-size: small;
     font-family: cursive;
-        padding-top: 40px;
-        text-align: center;
-        color: #fff;
-        padding-bottom: 10px;
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
     }
 #jhone {
     color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
