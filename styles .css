@@ -58,7 +58,6 @@ body {
     
 }
 .banner--description{
-    
     width: 400px;
     line-height: 1.5;
     padding-top: 1rem;
@@ -67,11 +66,10 @@ body {
 }
 
 .banner--description2{
-    
     width: 400px;
     line-height: 1.5;
-    padding-top: 0.5rem;
-    font-size: 1rem;
+    padding-top: 1rem;
+    font-size: 0.9rem;
     max-width: 90%;
 }
 
@@ -81,9 +79,9 @@ body {
     height: 150px;
 }
 .banner--title {
-    font-size: 45px;
+    font-size: 2.5rem;
     font-weight: 900;
-    padding-bottom: 10px;
+/*     padding-bottom: 10px; */
 }
 
 .banner--button {
@@ -91,13 +89,13 @@ body {
     color: white;
     outline: none;
     border: none;
-    font-weight: 700;
+    font-weight: 800;
     border-radius: 10px;
     margin-right: 1rem;
     padding-left: 2rem;
-    padding-right: 1.8rem;
-    padding-top: 0.7rem;
-    padding-bottom: 12px;
+    padding-right: 2rem;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
     background-color: rgba(51, 51, 51, 0.5);
 }
 .banner--button:hover {
