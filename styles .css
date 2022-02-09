@@ -142,9 +142,9 @@ body {
     padding-bottom: 10px;
     }
 .nav--footer {
-    padding: 7px;
-    height: 3rem;
-    margin-bottom: 10px
+    height: 2rem;
+    margin-top: 25px;
+    margin-bottom: 5px ;
 }
 #jhone {
     color: rgb(255, 255, 255);
