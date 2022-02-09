@@ -141,6 +141,11 @@ body {
     color: #fff;
     padding-bottom: 10px;
     }
+.nav--footer {
+    padding: 7px;
+    height: 3rem;
+    margin-bottom: 10px
+}
 #jhone {
     color: rgb(255, 255, 255);
     font-size: 17px;
