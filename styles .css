@@ -135,20 +135,32 @@ body {
 } 
 .footer {
     font-size: small;
-    font-family: Cambria, Cochin;
+    font-family: Cambria, Cochin; 
     padding-top: 40px;
     text-align: center;
     color: #fff;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     }
+
 .nav--footer {
     height: 2rem;
     margin-top: 25px;
-    margin-bottom: 5px ;
+    margin-bottom: 5px;
+}
+#copy {
+    color: #fff;
+    font-size: 1rem;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #jhone {
-    color: rgb(255, 255, 255);
-    font-size: 17px;
+    color: #fff;
+    font-size: 20px;
     font-weight: 500;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#jhonejhone {
+    text-decoration: none;
 }
