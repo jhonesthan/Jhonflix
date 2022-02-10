@@ -132,6 +132,7 @@ body {
 }
 .nav--black {
     background-color: #000;
+    border-bottom: 1px solid red;
 } 
 .footer {
     font-size: small;
